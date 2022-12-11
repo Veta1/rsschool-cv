@@ -1,2 +1,2 @@
+# https://Veta1.github.io/rsschool-cv/
 
-# https://Veta1.github.io/rsschool-cv/cv
